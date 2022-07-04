@@ -31,6 +31,8 @@ from __future__ import absolute_import
 from kserve.models.v1alpha1_built_in_adapter import V1alpha1BuiltInAdapter
 from kserve.models.v1alpha1_cluster_serving_runtime import V1alpha1ClusterServingRuntime
 from kserve.models.v1alpha1_cluster_serving_runtime_list import V1alpha1ClusterServingRuntimeList
+from kserve.models.v1alpha1_inference_graph import V1alpha1InferenceGraph
+from kserve.models.v1alpha1_inference_graph_list import V1alpha1InferenceGraphList
 from kserve.models.v1alpha1_model_spec import V1alpha1ModelSpec
 from kserve.models.v1alpha1_serving_runtime import V1alpha1ServingRuntime
 from kserve.models.v1alpha1_serving_runtime_list import V1alpha1ServingRuntimeList
